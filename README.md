@@ -1,14 +1,25 @@
-# Welcome to your Lovable project
+# FluentSpeak Translator
+
+create a language translator tool 
+Create a user interface where user can enter text and select source & target languages.
+
+● Use a translation API like Google Translate API or Microsoft Translator to process the input.
+
+● Send the text to the API and get the translated response.
+
+● Display the translated text clearly on the screen.
+
+● Optional: Add a copy button or text-to-speech feature for better usability.
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/98b46e91-41eb-4f68-ac98-810142a940e4).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +31,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
